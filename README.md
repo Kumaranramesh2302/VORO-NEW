@@ -326,4 +326,3 @@ MIT License — feel free to use, modify, and distribute.
 
 ---
 
-Built with ❤️ by the VoroWebCreator team.
